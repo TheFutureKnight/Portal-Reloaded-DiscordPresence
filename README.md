@@ -1,13 +1,13 @@
 # Portal-Reloaded-DiscordPresence
 
-# Installation:
+## Installation:
 - Install the mod from steam (of course you need to own portal 2 first)
 - Install the exe from the release page or install the code (python) and run it/compile it/use it
 - NOTE: THE EXE MIGHT TRIGGER SOME ANTI-VIRUSES. Sorry for the inconvenience.
 - Replace it with the shortcut on your desktop (this won't be able to launch from steam unless you set it as a non-steam game)
 - Enjoy your Rich Presence on Discord :)
 
-## Pros:
+### Pros:
 - "It just works" - Todd Howard, CEO of Bethesda Games Studios
 - Launches the game
 - Closes when the game is closed
