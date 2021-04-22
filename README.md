@@ -1,4 +1,4 @@
-# Portal-Reloaded-DiscordPresence
+# Portal Reloaded Discord Rich Presence
 
 ## Installation:
 - Install the mod from steam (of course you need to own portal 2 first)
